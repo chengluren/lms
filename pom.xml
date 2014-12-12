@@ -31,6 +31,7 @@
         <version.jstl>1.2</version.jstl>
         <version.commons-lang>3.3.2</version.commons-lang>
         <version.commons-fileupload>1.3.1</version.commons-fileupload>
+        <version.codec>1.10</version.codec>
         <version.tomcat-jdbc>7.0.57</version.tomcat-jdbc>
 
         <version.jackson>2.4.3</version.jackson>
@@ -44,6 +45,9 @@
         <version.spring-data-jpa>1.7.1.RELEASE</version.spring-data-jpa>
         <version.hibernate>4.3.7.Final</version.hibernate>
         <version.hiberante.validation>5.1.3.Final</version.hiberante.validation>
+        <version.mybatis>3.2.8</version.mybatis>
+        <version.mybatis.spring>1.2.2</version.mybatis.spring>
+        <version.mybatis.generator>1.3.2</version.mybatis.generator>
         <version.shiro>1.2.3</version.shiro>
     </properties>
 
