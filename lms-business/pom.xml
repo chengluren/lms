@@ -53,6 +53,34 @@
             <artifactId>mybatis</artifactId>
             <version>${version.mybatis}</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.apache.shiro</groupId>
+            <artifactId>shiro-core</artifactId>
+            <version>${version.shiro}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.shiro</groupId>
+            <artifactId>shiro-spring</artifactId>
+            <version>${version.shiro}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.lucene</groupId>
+            <artifactId>lucene-core</artifactId>
+            <version>${version.lucene}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.lucene</groupId>
+            <artifactId>lucene-queryparser</artifactId>
+            <version>${version.lucene}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.wltea</groupId>
+            <artifactId>analyzer</artifactId>
+            <version>1.0.0</version>
+        </dependency>
     </dependencies>
 
     <build>

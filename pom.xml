@@ -49,6 +49,7 @@
         <version.mybatis.spring>1.2.2</version.mybatis.spring>
         <version.mybatis.generator>1.3.2</version.mybatis.generator>
         <version.shiro>1.2.3</version.shiro>
+        <version.lucene>4.10.2</version.lucene>
     </properties>
 
     <dependencies>
